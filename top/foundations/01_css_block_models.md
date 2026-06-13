@@ -17,9 +17,14 @@ Generally we can make a layout by manipulating those rectangles, by:
 
 ** Assignment To Do**
 
-1. Learn CSS Box Model in 8 minutes, https://www.youtube.com/watch?v=rIO5326FgPE.
-2. box-sizing: border-box (EASY!), https://www.youtube.com/watch?v=HdZHcFWcAd8.
-3. MDN box model documentation, https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model.
-4. The CSS tricks page on margins, https://css-tricks.com/almanac/properties/m/margin/.
+1. Learn CSS Box Model in 8 minutes, https://www.youtube.com/watch?v=rIO5326FgPE. (On Progress)
+2. box-sizing: border-box (EASY!), https://www.youtube.com/watch?v=HdZHcFWcAd8. (To Do)
+3. MDN box model documentation, https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model. (To Do)
+4. The CSS tricks page on margins, https://css-tricks.com/almanac/properties/m/margin/. (To Do)
+
+** Summary Each Assignment **
+
+
+
 
 
